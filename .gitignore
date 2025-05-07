@@ -1,0 +1,26 @@
+# PDF files
+data/pdfs/*.pdf
+data/pdfs/**/*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/ 
